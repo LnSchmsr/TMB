@@ -1,0 +1,12 @@
+numpy
+scikit-learn
+torch
+torchvision
+tqdm
+ray[tune]
+plotly
+pandas
+matplotlib
+tensorboard
+hydra-core
+
