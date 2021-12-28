@@ -1,9 +1,9 @@
-#Train Measures Bridge (TMB)
+# Train Measures Bridge (TMB)
 
-This is an implementation of the paper "Deep learning based indirect monitoring to identify bridge resonant frequencies using sensors on a passing train" usingl Python 3, Pytorch and Ray. The model predicts the frequency of an acceleration signal using regression.
+This is an implementation of the paper "Deep learning based indirect monitoring to identify bridge resonant frequencies using sensors on a passing train" using Python 3, Pytorch and Ray. The model predicts the frequency of an acceleration signal using regression.
 
 The repository contains:
-- Source code of the model created with Pytorch 3
+- Source code of the model created with Pytorch 
 - Training code for the simulations and real data on the Schmutter bridge.
 - The experiments used, which are discussed in the chapters.
 
@@ -24,3 +24,7 @@ The code is organised as follows:
 - **experiments:** Contains the experiments used:
 - **models:**Contains the models used.
 - **tmb:** Contains the code of the package.
+
+# Citation
+Use this bibtex to cite this repository:
+
