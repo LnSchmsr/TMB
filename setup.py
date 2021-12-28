@@ -72,6 +72,11 @@ pd = os.getcwd()
 
 #Create dir
 path = f'{pd}/experiments/conf'
+run_dir = f'{pd}/run'
+
+if not Path(run_dir).exists():
+    os.mkdir(run_dir)
+
 if not Path(path).exists():
     os.mkdir(f'{pd}/experiments/conf')
 
