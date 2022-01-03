@@ -22,7 +22,7 @@ The code is documented and designed to make the paper more comprehensible and ea
 The code is organised as follows:
 - **data:** Contains the training data used for the simulation (*dataset_0_30_100_200_1.npz*), as well as for the Schmutter. Furthermore, a smaller dataset (*debug_dataset.npz*) is included for simple debugging.
 - **experiments:** Contains the experiments used:
-- **models:**Contains the models used.
+- **models:** Contains the models used.
 - **tmb:** Contains the code of the package.
 
 # Citation
