@@ -27,4 +27,12 @@ The code is organised as follows:
 
 # Citation
 Use this bibtex to cite this repository:
+@misc{TMB_2021,
+  title={Train Measures Bridge},
+  author={S.R. Lorenzen, H. Berthold, M. Rupp, L. Schmeiser, J. Schneider, J. Brötzmann, C.-D. Thiele & U. Rüppel},
+  year={2021},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/LnSchmsr/TMB}},
+}
 
